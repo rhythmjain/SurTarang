@@ -5,4 +5,4 @@ SurTarang is an interactive and generative music system enabling musicians to co
 
 You can also refer to SurTarangSlides.pptx (present in the root directory) to get a quick explanation of the different modules and flow of SurTarang. For a detailed explaination of the same, please refer to the documentation in the paper SurTarangPaper.pdf (present in the root directory). A schematic of the basic components of this system are displayed below.
 
-<img width = "500" align= "center" alt="image" src="https://user-images.githubusercontent.com/78115400/154269070-3388a37b-250c-4830-8714-f891a9bd651a.png">
+<center><img width = "500" alt="image" src="https://user-images.githubusercontent.com/78115400/154269070-3388a37b-250c-4830-8714-f891a9bd651a.png"></centre>
